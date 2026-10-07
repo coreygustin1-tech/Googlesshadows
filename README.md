@@ -1,2 +1,2 @@
 # Googlesshadows
-closed Jul 27, 2026 MFA Fatigue and Push Notification Injection Leading to Unauthorized Access in Google AI Studio TARGET PROGRAM: Google VRP (Notifications/Identity) Google VRP - issu.ee/511840405
+This was a discovered back in May 2026 and reported to google bug whom closed it. Its been 3 months and they've banned me at this point. So to to help educate users and others of such ive decided to publish such for educational purposes only. MFA Fatigue and Push Notification Injection Leading to Unauthorized Access in Google AI Studio TARGET PROGRAM: Google VRP (Notifications/Identity) Google VRP - issu.ee/511840405
